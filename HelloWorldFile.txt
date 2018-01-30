@@ -1,1 +1,2 @@
 Prueba de commint de un archivo
+Linea 2 de prueba para el commit con branch master con privilegios
